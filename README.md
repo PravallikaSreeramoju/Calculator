@@ -1,5 +1,5 @@
 # Calculator
-It supports basic arithmetic operations — addition, subtraction, multiplication, and division — along with parentheses for more complex expressions. 
+This calculator follows the BODMAS rule (Brackets, Orders, Division and Multiplication, Addition and Subtraction) to evaluate mathematical expressions accurately. It supports basic operations (+, -, *, /). 
 
 
 
